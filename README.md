@@ -69,7 +69,6 @@ The script will update the **Excel file (`data/crypto_data.xlsx`)** every 5 minu
    - **Average price** of the top 50 cryptos
    - **Highest & lowest 24h price change**
 3. The script **updates the Excel sheet (`crypto_data.xlsx`)** every 5 minutes.
-4. Logs of execution are stored in `logs/tracker.log`.
 
 ---
 
