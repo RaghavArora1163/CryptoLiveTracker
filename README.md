@@ -30,7 +30,7 @@ Make sure you have Python **3.x** installed, then run:
 ```
 
 ### **4️⃣ Check Live Data in Excel**
-The script will update the **Excel file (`data/crypto_data.xlsx`)** every 5 minutes.
+The script will update the **Excel file (`crypto_data.xlsx`)** every 5 minutes.
 
 ---
 
