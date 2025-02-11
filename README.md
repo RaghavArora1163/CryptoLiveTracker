@@ -7,8 +7,6 @@ CryptoLiveTracker is a Python-based project that fetches live cryptocurrency dat
 - ✅ Fetches the **top 50 cryptocurrencies** by market capitalization using the CoinGecko API.
 - ✅ **Updates an Excel sheet (`crypto_data.xlsx`)** with real-time data every 5 minutes.
 - ✅ **Performs basic analysis** (top 5 cryptos, average price, highest & lowest 24h price change).
-- ✅ **Logs execution details** in `tracker.log`.
-- ✅ **Can be automated** using a Windows batch file (`run_tracker.bat`) or a Linux/macOS shell script (`run_tracker.sh`).
 
 ---
 
